@@ -1,2 +1,13 @@
-www.google.com
-www.youtube.com
+<indotv>
+<data channel="ANTV">
+<url channel="ANTV" server="Server 1">rtmp://cdn.mivo.tv/mivotvjkt/ pageUrl=http://mivo.tv/home.php conn=S:PLAYER live=1 playpath=antv2 token=#8888#9999</url>
+<url channel="ANTV" server="Server 2">http://202.75.23.50/live/ch7/live.m3u8</url>
+<url channel="ANTV" server="Server 3">rtmp://202.129.216.27:1970/ app=antv live=1 playpath=antv1</url>
+<url channel="ANTV" server="Server 4">rtmp://202.129.216.27:1970/ app=antv live=1 playpath=antv2</url>
+<url channel="ANTV" server="Server 5">rtmp://202.129.216.27:1970/ app=antv live=1 playpath=antv3</url>
+<url channel="ANTV" server="Server 6">rtmp://203.153.97.35/live/ live=1 playpath=livestream</url>
+</data>
+<data channel="BERITA SATU">
+<url channel="BERITA SATU" server="Server 1">rtmp://cdn.mivo.tv/mivotvjkt/ pageUrl=http://mivo.tv/home.php conn=S:PLAYER live=1 playpath=beritasatu token=#8888#9999</url>
+</data>
+</indotv>
