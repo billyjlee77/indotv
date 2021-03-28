@@ -4,17 +4,9 @@
                        'sub': 'https://noti5.us.to/a/a.srt',
                        'genre': 'Kids'}
                       ],
-            'TV': [{'name': 'Postal Truck',
-                      'thumb': 'http://www.vidsplay.com/wp-content/uploads/2017/05/us_postal-screenshot.jpg',
-                      'video': 'http://www.vidsplay.com/wp-content/uploads/2017/05/us_postal.mp4',
-                      'genre': 'Cars'},
-                     {'name': 'Traffic',
-                      'thumb': 'http://www.vidsplay.com/wp-content/uploads/2017/05/traffic1-screenshot.jpg',
-                      'video': 'http://www.vidsplay.com/wp-content/uploads/2017/05/traffic1.mp4',
-                      'genre': 'Cars'},
-                     {'name': 'Traffic Arrows',
-                      'thumb': 'http://www.vidsplay.com/wp-content/uploads/2017/05/traffic_arrows-screenshot.jpg',
-                      'video': 'http://www.vidsplay.com/wp-content/uploads/2017/05/traffic_arrows.mp4',
-                      'genre': 'Cars'}
+            'TV': [{'name': 'S01E01',
+                      'thumb': 'https://m.media-amazon.com/images/M/MV5BOWI3ZmVkNDktYTgzMy00ZTUwLThkYjQtZjI1MzMzZTNhZWVlXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg',
+                      'video': 'https://s-delivery22.mxdcontent.net/v/cf7240536646f0c2546025ed1269f452.mp4?s=m8rNVeQRBR0tQMmWwFzpzA&e=1616963997&_t=1616950543',
+                      'genre': 'TV'}
                      ]
                      }
