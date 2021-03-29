@@ -7,7 +7,17 @@
             'TV': [{'name': 'S01E01',
                       'thumb': 'https://m.media-amazon.com/images/M/MV5BOWI3ZmVkNDktYTgzMy00ZTUwLThkYjQtZjI1MzMzZTNhZWVlXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg',
                       'video': 'https://noti5.us.to/newamsterdam/New.Amsterdam.S01E01.PROPER.WEBRip.x264-ION10.mp4',
-                      'sub': 'https://noti5.us.to/a/a.srt',
+                      'sub': 'https://noti5.us.to/newamsterdam/sub/New.Amsterdam.S01E01.PROPER.WEBRip.x264-ION10.srt',
+                      'genre': 'TV'},
+                      {'name': 'S01E02',
+                      'thumb': 'https://m.media-amazon.com/images/M/MV5BOWI3ZmVkNDktYTgzMy00ZTUwLThkYjQtZjI1MzMzZTNhZWVlXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg',
+                      'video': 'https://noti5.us.to/newamsterdam/New.Amsterdam.S01E02.PROPER.WEBRip.x264-ION10.mp4',
+                      'sub': 'https://noti5.us.to/newamsterdam/sub/New.Amsterdam.S01E02.PROPER.WEBRip.x264-ION10.srt',
+                      'genre': 'TV'},
+                      {'name': 'S01E03',
+                      'thumb': 'https://m.media-amazon.com/images/M/MV5BOWI3ZmVkNDktYTgzMy00ZTUwLThkYjQtZjI1MzMzZTNhZWVlXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg',
+                      'video': 'https://noti5.us.to/newamsterdam/New.Amsterdam.S01E03.PROPER.WEBRip.x264-ION10.mp4',
+                      'sub': 'https://noti5.us.to/newamsterdam/sub/New.Amsterdam.S01E03.PROPER.WEBRip.x264-ION10.srt',
                       'genre': 'TV'}
                      ]
                      }
