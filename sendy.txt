@@ -20,7 +20,7 @@
 {'name': 'S03E14','thumb': 'https://m.media-amazon.com/images/M/MV5BOWI3ZmVkNDktYTgzMy00ZTUwLThkYjQtZjI1MzMzZTNhZWVlXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg','video': 'https://noti5.us.to/newamsterdam/New.Amsterdam.2018.S03E14.480p.x264-mSD[eztv.re].mkv','sub': 'https://noti5.us.to/newamsterdam/sub/New.Amsterdam.2018.S03E14.480p.x264-mSD[eztv.re].en.srt','genre': 'TV'}
                      ],
 'Kakuriyo': [
-{'name': 'E01','thumb': '','video': 'https://storage.googleapis.com/plucky-bulwark-320216/OT9AICNJFDK/st23_kakuriyo-no-yadomeshi-episode-1.1627088257.mp4','sub': '','genre': 'Anime'},
+{'name': 'E01','thumb': '','video': 'https://mediacorp-videosbclive.akamaized.net/c6717ac64d72465eae79bfbc2064d893/ap-southeast-1/6057994443001/profile_2/chunklist.m3u8','sub': '','genre': 'Anime'},
 {'name': 'E02','thumb': '','video': 'https://storage.googleapis.com/verdant-tempest-317303/PZJ7HDG6QAO8/st22_kakuriyo-no-yadomeshi-episode-2.1627107019.mp4','sub': '','genre': 'Anime'},
 {'name': 'E03','thumb': '','video': 'https://storage.googleapis.com/plucky-bulwark-320216/ZEX52Y966LM1/st23_kakuriyo-no-yadomeshi-episode-3.1627076434.mp4','sub': '','genre': 'Anime'},
 {'name': 'E04','thumb': '','video': 'https://storage.googleapis.com/plucky-bulwark-320216/RP_MJ29KXOI4/st23_kakuriyo-no-yadomeshi-episode-4.1627077002.mp4','sub': '','genre': 'Anime'},
